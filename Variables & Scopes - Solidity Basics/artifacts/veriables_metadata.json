@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Veriables.sol": "veriables"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Veriables.sol": {
+			"keccak256": "0xa258f052dd170b58e8ec7e1f5ae8cdc886dbbe55903fe01ea7c4fd61603c878d",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://01c19d2026618519df05c5108325553665b0aaffa67229ff94e75c8b394d4e5f",
+				"dweb:/ipfs/QmSShDKdSPTGWMDWMgaoV1jSpGKzqdEaFrJ7E8eu74o35G"
+			]
+		}
+	},
+	"version": 1
+}
